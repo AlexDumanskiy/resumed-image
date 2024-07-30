@@ -1,5 +1,5 @@
 FROM node
-ENV THEME=even
+ENV THEME=flat
 
 RUN mkdir -p /usr/resumed
 WORKDIR /usr/resumed
